@@ -1,0 +1,10 @@
+
+*.csv
+*.edges
+*.circles
+*.egofeat
+*.featnames
+*.feat
+*.json
+*.followers
+*.txt

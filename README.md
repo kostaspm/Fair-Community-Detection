@@ -9,12 +9,15 @@ For the community detection procedure we used two community detection algorithms
 - Label Propagation
 - Louvain Communities
 and an algorithm based on node embeddings
-- [ComE]<https://github.com/andompesta/ComE>
+- [ComE](https://github.com/andompesta/ComE)
 
 #### Datasets
 We evaluated the algorithm in 5 real world Datasets
-1. [Deezer]<http://snap.stanford.edu/data/feather-deezer-social.html>
-2. [Facebook]<http://snap.stanford.edu/data/ego-Facebook.html>
-3. [Twitch Gamers]<https://snap.stanford.edu/data/twitch_gamers.html>
-4. [Google Plus]<http://snap.stanford.edu/data/ego-Gplus.html>
-5. [Pokec]<https://snap.stanford.edu/data/soc-Pokec.html>
+1. [Deezer](http://snap.stanford.edu/data/feather-deezer-social.html)
+2. [Facebook](http://snap.stanford.edu/data/ego-Facebook.html)
+3. [Twitch Gamers](https://snap.stanford.edu/data/twitch_gamers.html)
+4. [Google Plus](http://snap.stanford.edu/data/ego-Gplus.html)
+5. [Pokec](https://snap.stanford.edu/data/soc-Pokec.html)
+
+---
+A project by Christos Gkartzios <chgartzios@cs.uoi.gr> & Konstantinos Manolis <kmanolis@cs.uoi.gr> 
